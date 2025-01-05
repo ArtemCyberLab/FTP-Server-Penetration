@@ -1,3 +1,7 @@
+Project Overview
+This project is focused on penetration testing, specifically hacking into an FTP server and extracting hidden information. The project involves a range of practical techniques, such as exploiting FTP vulnerabilities, decrypting encoded data, and utilizing various tools to interact with network services. The exercises for this project were carried out on TryHackMe, an ethical hacking platform, ensuring all activities were conducted in a legal and controlled environment.
+
+
 Project: Hacking an FTP Server and Extracting Hidden Information
 
 In this project, I performed a series of penetration testing tasks, which involved hacking an FTP server, extracting hidden data, and using various tools to work with network services and files.
